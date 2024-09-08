@@ -1,0 +1,37 @@
+address,street,category,title,value
+17580,Drummond,Profile,Tax Year,2024
+,,,Pay Year,2025
+,,,Property Address,17580 DRUMMOND DR
+,,,Building/Unit #:,
+,,,City & Zip Code,TINLEY PARK IL 60487
+,,,Multiple Addresses:,No
+,,,Class,299 - Residential Condominium
+,,,Neighborhood,28-047
+,,,Tax District,28013
+,,,Key PIN,27-34-104-026-1001
+,,,Common Interest Land %,.52083
+,,,Common Interest Bldg %,.52083
+,,,Town Name,28 - ORLAND TOWNSHIP
+,,,Tri-Town,28 - SOUTH
+17580,Drummond,Taxpayer Data,Tax Year,2024
+,,,PIN:,27-34-104-026-1172
+,,,Taxpayer Name,JOHN L FRANGELLO
+,,,Taxpayer Name 2,
+,,,Address Type:,N
+,,,Address:,17580 DRUMMOND DR
+,,,City:,TINLEY PARK
+,,,State,IL
+,,,Zip,60487
+17580,Drummond,Values,Tax Year,Class
+,,,2024,299
+17580,Drummond,Value Summary,Year,Process Name
+,,,2024,CCAOVALUE
+,,,2023,BORVALUE
+,,,2023,CCAOFINAL
+,,,2023,CCAOVALUE
+,,,2022,BORVALUE
+,,,2022,CCAOFINAL
+,,,2022,CCAOVALUE
+,,,2021,BORVALUE
+,,,2021,CCAOFINAL
+,,,2021,CCAOVALUE
